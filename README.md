@@ -68,4 +68,4 @@ Please make sure to update tests as appropriate.
 
 Your Name - [Klaas Matlou] [tshupianematlou@gmail.com]
 
-Project Link: [GitHub](https://github.com/KlaasMatlou/crypto-investment-advisor-chatbot)
+Project Link: [GitHub](https://github.com/KlaasMatlou/crypto-investment-advisor-chatbot.git)
