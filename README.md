@@ -24,8 +24,9 @@ To run the chatbot, follow these steps:
 2. Clone this repository or download the `main.py` script.
 3. Install the required Python package by running:
 
-install colorama library if you haven't already, for Colors on the text
- pip install colorama
+install colorama library if you haven't for Colors on texts.
+
+ `pip install colorama`
 
 4. Run the script using CrytptoCurrencyBot.py
 
@@ -41,8 +42,8 @@ install colorama library if you haven't already, for Colors on the text
 
 Below are three screenshots demonstrating the chatbot's performance:
 
-![Screenshot 1](Error Message in red.png)
-![Screenshot 2](AI generated advice.png)
+![Screenshot 1](screenshots/AI_generated_advice.png)
+![Screenshot 2](screenshots/Error_Message_red.png)
 
 These screenshots showcase the chatbot's ability to analyze cryptocurrency data and provide investment advice.
 
