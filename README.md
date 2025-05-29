@@ -28,7 +28,7 @@ install colorama library if you haven't for Colors on texts.
 
  `pip install colorama`
 
-4. Run the script using CrytptoCurrencyBot.py
+4. Run the script using `CrytptoCurrencyBot.py`
 
 
 #### Usage
@@ -40,9 +40,13 @@ install colorama library if you haven't for Colors on texts.
 
 ### Screenshots
 
-Below are three screenshots demonstrating the chatbot's performance:
+Below are screenshots demonstrating the chatbot's performance:
 
+Generated AI advice
 ![Screenshot 1](screenshots/AI_generated_advice.png)
+
+
+Error Message if it doesn't have the Currency
 ![Screenshot 2](screenshots/Error_Message_red.png)
 
 These screenshots showcase the chatbot's ability to analyze cryptocurrency data and provide investment advice.
