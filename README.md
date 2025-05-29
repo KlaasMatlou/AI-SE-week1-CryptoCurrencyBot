@@ -21,7 +21,7 @@ The chatbot uses a predefined dictionary of cryptocurrencies with their associat
 To run the chatbot, follow these steps:
 
 1. Ensure Python is installed on your system.
-2. Clone this repository or download the `main.py` script.
+2. Clone this repository or download the `CryptoCurencyBot.py` script.
 3. Install the required Python package by running:
 
 install colorama library if you haven't for Colors on texts.
